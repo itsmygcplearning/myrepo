@@ -1,0 +1,8 @@
+---
+- name: Patch testing
+  hosts: all
+  tasks:
+    - name: install php
+      yum:
+        name: php
+        state: latest
