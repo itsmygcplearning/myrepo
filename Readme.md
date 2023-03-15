@@ -3,3 +3,5 @@ Demo Project
 
 Testing for Branching
 For auto commit
+
+Line to cause conflict very -bad
