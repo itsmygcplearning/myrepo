@@ -1,1 +1,2 @@
 New Licence file
+1.0
